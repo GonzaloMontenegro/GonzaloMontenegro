@@ -34,10 +34,10 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/GonzaloMontenegro/drill-logica-programacion-5.git" title="Drill 5 "></a>
+     <a href="https://github.com/GonzaloMontenegro/drill-logica-programacion-5.git" title="Drill 5 ">Drill 5</a>
       </p>
     <p align="center">
-        <a href="https://github.com/GonzaloMontenegro/-drill-logica-programacion-4.git" target="blank" title="Drill 4"></a>
+        <a href="https://github.com/GonzaloMontenegro/-drill-logica-programacion-4.git" target="blank" title="Drill 4">Drill 4</a>
     </p>       
 
 <h2>GitHub :octocat:</h2>
