@@ -8,14 +8,6 @@
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
 <p align="left">
 💻Soy un entusiasta del desarrollo web con conocimientos en FullStack JavaScript, comprometido y con una actitud positiva para adaptarme a entornos cambiantes. Mi experiencia en diversos rubros me ha permitido desarrollar habilidades blandas clave como el trabajo en equipo, la resolución de problemas y una comunicación efectiva. Estoy en constante aprendizaje para fortalecer mis habilidades técnicas y contribuir al éxito de proyectos tecnológicos.
 ☺️
@@ -27,6 +19,15 @@
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+</div>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,css,html,js,nodejs,git,github,vscode,bash&perline=12" />
