@@ -34,7 +34,7 @@
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
-  <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
      <a href="https://github.com/GonzaloMontenegro/drill-logica-programacion-5.git" title="Drill 5 ">Drill 5</a>
      <p align="right">
         <a href="https://github.com/GonzaloMontenegro/-drill-logica-programacion-4.git" target="blank" title="Drill 4">Drill 4</a>
