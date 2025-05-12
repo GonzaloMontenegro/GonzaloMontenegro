@@ -28,11 +28,6 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,css,html,js,nodejs,git,github,vscode,bash&perline=12" />
-  </a>
-</p>
 <br>
 <!-------------------------->
 <div id="proyectos">
