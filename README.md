@@ -11,7 +11,7 @@
 <p align="left">
 💻Soy un entusiasta del desarrollo web con conocimientos en FullStack JavaScript, comprometido y con una actitud positiva para adaptarme a entornos cambiantes. Mi experiencia en diversos rubros me ha permitido desarrollar habilidades blandas clave como el trabajo en equipo, la resolución de problemas y una comunicación efectiva. Estoy en constante aprendizaje para fortalecer mis habilidades técnicas y contribuir al éxito de proyectos tecnológicos.
 ☺️
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
+<img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 
 📫 Contacto: **gonzalo.trabajos.cl@hotmail.com**
 <!--Intro end-->
