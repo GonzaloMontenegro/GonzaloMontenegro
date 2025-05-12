@@ -13,7 +13,7 @@
 💻Soy un entusiasta del desarrollo web con conocimientos en FullStack JavaScript, comprometido y con una actitud positiva para adaptarme a entornos cambiantes. Mi experiencia en diversos rubros me ha permitido desarrollar habilidades blandas clave como el trabajo en equipo, la resolución de problemas y una comunicación efectiva. Estoy en constante aprendizaje para fortalecer mis habilidades técnicas y contribuir al éxito de proyectos tecnológicos.
 ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **gonzalo.trabajos.cl@hotmail.com**
 <!--Intro end-->
   </p>
 <br>
